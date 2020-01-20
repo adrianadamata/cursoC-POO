@@ -1,0 +1,11 @@
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\obj\Debug\netcoreapp3.0\Exercicio_encapsulamento.csprojAssemblyReference.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\obj\Debug\netcoreapp3.0\Exercicio_encapsulamento.AssemblyInfoInputs.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\obj\Debug\netcoreapp3.0\Exercicio_encapsulamento.AssemblyInfo.cs
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\bin\Debug\netcoreapp3.0\Exercicio_encapsulamento.exe
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\bin\Debug\netcoreapp3.0\Exercicio_encapsulamento.deps.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\bin\Debug\netcoreapp3.0\Exercicio_encapsulamento.runtimeconfig.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\bin\Debug\netcoreapp3.0\Exercicio_encapsulamento.runtimeconfig.dev.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\bin\Debug\netcoreapp3.0\Exercicio_encapsulamento.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\bin\Debug\netcoreapp3.0\Exercicio_encapsulamento.pdb
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\obj\Debug\netcoreapp3.0\Exercicio_encapsulamento.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_encapsulamento\Exercicio_encapsulamento\obj\Debug\netcoreapp3.0\Exercicio_encapsulamento.pdb

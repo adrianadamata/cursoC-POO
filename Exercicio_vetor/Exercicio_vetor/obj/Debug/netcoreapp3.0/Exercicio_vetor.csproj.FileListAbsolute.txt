@@ -1,0 +1,11 @@
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.0\Exercicio_vetor.csprojAssemblyReference.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.0\Exercicio_vetor.AssemblyInfoInputs.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.0\Exercicio_vetor.AssemblyInfo.cs
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.0\Exercicio_vetor.exe
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.0\Exercicio_vetor.deps.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.0\Exercicio_vetor.runtimeconfig.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.0\Exercicio_vetor.runtimeconfig.dev.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.0\Exercicio_vetor.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.0\Exercicio_vetor.pdb
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.0\Exercicio_vetor.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.0\Exercicio_vetor.pdb

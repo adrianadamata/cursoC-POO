@@ -1,0 +1,11 @@
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.0\Exercicio_listas.csprojAssemblyReference.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.0\Exercicio_listas.AssemblyInfoInputs.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.0\Exercicio_listas.AssemblyInfo.cs
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.0\Exercicio_listas.exe
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.0\Exercicio_listas.deps.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.0\Exercicio_listas.runtimeconfig.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.0\Exercicio_listas.runtimeconfig.dev.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.0\Exercicio_listas.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.0\Exercicio_listas.pdb
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.0\Exercicio_listas.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.0\Exercicio_listas.pdb

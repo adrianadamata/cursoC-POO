@@ -1,0 +1,11 @@
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\obj\Debug\netcoreapp3.0\Exercicio_fixacao_01.csprojAssemblyReference.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\obj\Debug\netcoreapp3.0\Exercicio_fixacao_01.AssemblyInfoInputs.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\obj\Debug\netcoreapp3.0\Exercicio_fixacao_01.AssemblyInfo.cs
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\bin\Debug\netcoreapp3.0\Exercicio_fixacao_01.exe
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\bin\Debug\netcoreapp3.0\Exercicio_fixacao_01.deps.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\bin\Debug\netcoreapp3.0\Exercicio_fixacao_01.runtimeconfig.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\bin\Debug\netcoreapp3.0\Exercicio_fixacao_01.runtimeconfig.dev.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\bin\Debug\netcoreapp3.0\Exercicio_fixacao_01.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\bin\Debug\netcoreapp3.0\Exercicio_fixacao_01.pdb
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\obj\Debug\netcoreapp3.0\Exercicio_fixacao_01.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_fixacao_01\Exercicio_fixacao_01\obj\Debug\netcoreapp3.0\Exercicio_fixacao_01.pdb

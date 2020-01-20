@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Exercicio_encapsulamento/1.0.0": {
+        "runtime": {
+          "Exercicio_encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
