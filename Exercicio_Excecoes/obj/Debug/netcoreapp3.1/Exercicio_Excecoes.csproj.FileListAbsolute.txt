@@ -1,0 +1,11 @@
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\bin\Debug\netcoreapp3.1\Exercicio_Excecoes.exe
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\bin\Debug\netcoreapp3.1\Exercicio_Excecoes.deps.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\bin\Debug\netcoreapp3.1\Exercicio_Excecoes.runtimeconfig.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\bin\Debug\netcoreapp3.1\Exercicio_Excecoes.runtimeconfig.dev.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\bin\Debug\netcoreapp3.1\Exercicio_Excecoes.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\bin\Debug\netcoreapp3.1\Exercicio_Excecoes.pdb
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\obj\Debug\netcoreapp3.1\Exercicio_Excecoes.csprojAssemblyReference.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\obj\Debug\netcoreapp3.1\Exercicio_Excecoes.AssemblyInfoInputs.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\obj\Debug\netcoreapp3.1\Exercicio_Excecoes.AssemblyInfo.cs
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\obj\Debug\netcoreapp3.1\Exercicio_Excecoes.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_Excecoes\obj\Debug\netcoreapp3.1\Exercicio_Excecoes.pdb
