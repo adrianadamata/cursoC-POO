@@ -1,0 +1,11 @@
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\bin\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.exe
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\bin\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.deps.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\bin\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.runtimeconfig.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\bin\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.runtimeconfig.dev.json
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\bin\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\bin\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.pdb
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\obj\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.csprojAssemblyReference.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\obj\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.AssemblyInfoInputs.cache
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\obj\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.AssemblyInfo.cs
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\obj\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.dll
+C:\Programação C#\ws-vs2019\Programação Orientada a Objetos\Exercicio_heranca_polimorfismo\obj\Debug\netcoreapp3.1\Exercicio_heranca_polimorfismo.pdb
